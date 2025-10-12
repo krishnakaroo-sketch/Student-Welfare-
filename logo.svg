@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+	<title id="logoTitle">Student Welfare Association logo</title>
+	<desc id="logoDesc">A circular badge with the letters S W A</desc>
+	<defs>
+		<linearGradient id="g1" x1="0" x2="1">
+			<stop offset="0" stop-color="#7c3aed"/>
+			<stop offset="1" stop-color="#06b6d4"/>
+		</linearGradient>
+	</defs>
+	<circle cx="60" cy="60" r="56" fill="url(#g1)" />
+	<circle cx="60" cy="60" r="50" fill="rgba(255,255,255,0.06)" />
+	<g fill="#fff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="34" text-anchor="middle" dominant-baseline="central">
+		<text x="60" y="48">S</text>
+		<text x="60" y="76" font-size="24">W A</text>
+	</g>
+</svg>

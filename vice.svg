@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140" role="img" aria-labelledby="vTitle vDesc">
+  <title id="vTitle">Vice President</title>
+  <desc id="vDesc">Portrait placeholder for Vice President</desc>
+  <rect width="100%" height="100%" fill="#0b1220" rx="14"/>
+  <circle cx="70" cy="44" r="28" fill="#06b6d4"/>
+  <text x="70" y="110" text-anchor="middle" font-family="Nunito, sans-serif" font-size="12" fill="#fff">Vice President</text>
+</svg>
